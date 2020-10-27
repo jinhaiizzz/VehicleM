@@ -1,0 +1,9 @@
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\bin\Debug\netcoreapp3.1\Vehicle.Data.deps.json
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\bin\Debug\netcoreapp3.1\Vehicle.Data.dll
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.csprojAssemblyReference.cache
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.AssemblyInfoInputs.cache
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.AssemblyInfo.cs
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\bin\Debug\netcoreapp3.1\Vehicle.Data.pdb
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.csproj.CoreCompileInputs.cache
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.dll
+D:\STUDY\Silicon_Stack\VehicleM\Vehicle.Data\obj\Debug\netcoreapp3.1\Vehicle.Data.pdb
