@@ -44,6 +44,7 @@ namespace Vehicle.API.Controllers
         public async Task<ActionResult> DeleteVehicle(int id)
         {
             var res = _vehicleRepository.DeleteVehicle(id);
+
             return Ok(res);
         }
     }
